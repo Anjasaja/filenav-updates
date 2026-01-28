@@ -3,14 +3,15 @@
     <channel>
         <title>FileNav Updates</title>
         <item>
-            <title>Version 1.0.1</title>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <link>https://www.filenav.app/release-notes</link>
-            <enclosure url="https://anjasaja.github.io/filenav-updates/FileNav.zip" 
-                       sparkle:edSignature="ISI_DENGAN_SIGNATURE_DARI_GENERATE_APPCAST" 
-                       length="UKURAN_FILE_DALAM_BYTES" 
-                       type="application/octet-stream" />
-        </item>
+    <title>Version 1.0</title>
+    <sparkle:version>2</sparkle:version>
+    <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+    <pubDate>Wed, 28 Jan 2026 12:34:59 +0700</pubDate>
+    <link>https://www.filenav.app/release-notes</link>
+    <enclosure url="https://anjasaja.github.io/filenav-updates/FileNav.zip"
+               sparkle:edSignature="qgj/wuXjWQTYkL1siUMhMywqcv0mMNEHGBj1yJXG+GEkD918fSUr7+J1OifyLH+VYktHIVTA8A2onFdCnhGTDA=="
+               length="2660224"
+               type="application/octet-stream" />
+</item>
     </channel>
 </rss>
