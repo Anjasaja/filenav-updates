@@ -7,7 +7,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <link>https://www.filenav.app/release-notes</link>
-            <enclosure url="https://raw.githubusercontent.com/Anjasaja/filenav-updates/main/FileNav.zip" 
+            <enclosure url="https://anjasaja.github.io/filenav-updates/FileNav.zip" 
                        sparkle:edSignature="ISI_DENGAN_SIGNATURE_DARI_GENERATE_APPCAST" 
                        length="UKURAN_FILE_DALAM_BYTES" 
                        type="application/octet-stream" />
