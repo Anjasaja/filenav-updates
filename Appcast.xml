@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>FileNav Updates</title>
-        <item>
+       <item>
     <title>Version 1.0</title>
-    <sparkle:version>6</sparkle:version>
+    <sparkle:version>8</sparkle:version>
     <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-    <pubDate>Mon, 23 Mar 2026 22:38:25 +0700</pubDate>
+    <pubDate>Tue, 24 Mar 2026 01:31:10 +0700</pubDate>
     <link>https://www.filenav.app/release-notes</link>
     <enclosure url="https://anjasaja.github.io/filenav-updates/FileNav.zip"
-               sparkle:edSignature="8spHOZn38z+SVSpDpTkoVbBkbu3FFj++9c6iwNgaQ/sw2i6lUQKNACCVYK8xkvEmp3Bkw7IJPWTzwhjfTE9WAg=="
-               length="2664085"
+               sparkle:edSignature="5AjXKDRJqpD37AyOeVxn+Ugnq4Jd1HWLja2n1upRoiZ3511VdFRUszU7r04ilKaZwbx9LERnHFsyCUTF7XdiAQ=="
+               length="2666909"
                type="application/octet-stream" />
 </item>
+
 
     </channel>
 </rss>
