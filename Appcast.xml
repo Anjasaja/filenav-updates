@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>FileNav Updates</title>
-       <item>
-    <title>Version 1.0</title>
-    <sparkle:version>8</sparkle:version>
-    <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-    <pubDate>Tue, 24 Mar 2026 01:31:10 +0700</pubDate>
-    <link>https://www.filenav.app/release-notes</link>
-    <enclosure url="https://anjasaja.github.io/filenav-updates/FileNav.zip"
-               sparkle:edSignature="5AjXKDRJqpD37AyOeVxn+Ugnq4Jd1HWLja2n1upRoiZ3511VdFRUszU7r04ilKaZwbx9LERnHFsyCUTF7XdiAQ=="
-               length="2666909"
-               type="application/octet-stream" />
-</item>
 
+        <item>
+            <title>Version 1.0</title>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 24 Mar 2026 01:31:10 +0700</pubDate>
+            <link>https://www.filenav.app/release-notes</link>
+            <enclosure url="https://anjasaja.github.io/filenav-updates/FileNav.zip"
+                       sparkle:edSignature="5AjXKDRJqpD37AyOeVxn+Ugnq4Jd1HWLja2n1upRoiZ3511VdFRUszU7r04ilKaZwbx9LERnHFsyCUTF7XdiAQ=="
+                       length="2666909"
+                       type="application/octet-stream" />
+        </item>
 
     </channel>
 </rss>
