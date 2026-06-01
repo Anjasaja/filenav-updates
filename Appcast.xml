@@ -4,17 +4,18 @@
         <title>FileNav Updates</title>
 
         <item>
-    <title>Version 1.0</title>
+    <title>Version 1.1</title>
     <sparkle:version>9</sparkle:version>
-    <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+    <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-    <pubDate>Mon, 01 Jun 2026 08:43:15 +0700</pubDate>
+    <pubDate>Mon, 01 Jun 2026 09:02:07 +0700</pubDate>
     <link>https://www.filenav.app/release-notes</link>
     <enclosure url="https://anjasaja.github.io/filenav-updates/FileNav.zip"
-               sparkle:edSignature="ABgmOlnXeQBFZhue4/gDL7FQmBIad/Mzor8yJBzXJZ8fGMsSYIJU/SSsLG/O8UmyM/bhbZiJxDNiOy/Otts0Aw=="
-               length="3205665"
+               sparkle:edSignature="/gUYYu1w+wNcaUzcNeg3e9z1ENBwByrgG2M8+jVRvBFkgVdExWgtpV03K5a/1Sa3UNnTnBkr+jPItTFf5tl7Bg=="
+               length="3205674"
                type="application/octet-stream" />
 </item>
+
 
 
 
